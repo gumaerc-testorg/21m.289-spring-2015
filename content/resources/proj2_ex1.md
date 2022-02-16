@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-289-islam-media-spring-2015/a8dc875f44070622532d89d47007692e_proj2_ex1.png
+file: /media/courses/21m-289-islam-media-spring-2015/a8dc875f44070622532d89d47007692e_proj2_ex1.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: proj2_ex1.png
 uid: a8dc875f-4407-0622-532d-89d47007692e

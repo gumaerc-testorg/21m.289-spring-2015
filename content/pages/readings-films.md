@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings & Films
 uid: 8c517bf1-43dc-842c-5ecb-64fcbada58f8
 ---
@@ -54,7 +57,7 @@ Prior to first course meeting, please read the following (about pp. 20):
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 2. The Qur'an: Message and Medium, I
 {{< tdclose >}}
 {{< tdopen >}}
@@ -89,7 +92,7 @@ _Guest:_ Laura Marks
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 3. The Qur'an: Message and Medium, II
 {{< tdclose >}}
 {{< tdopen >}}
@@ -126,7 +129,7 @@ Harris, R. "['The Oil is Sizzling in the Pot': Sound and Emotion in Uyghur Qur'a
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 4. Message and Messenger
 {{< tdclose >}}
 {{< tdopen >}}
@@ -161,7 +164,7 @@ Introduction to media production, including basic film / sound recording; if tim
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 5. Memory Transmission: Sunnah and Hadith
 {{< tdclose >}}
 {{< tdopen >}}
@@ -202,7 +205,7 @@ In-class activity on al-Bukhari, Muslim, and al-Suyuti. Present project 1, final
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 6. Visual Islam: Writing
 {{< tdclose >}}
 {{< tdopen >}}
@@ -241,7 +244,7 @@ Battles, M. "The House of Wisdom." In _Library: An Unquiet History_. W. W. Norto
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 7. Visual Islam: Art and Architecture
 {{< tdclose >}}
 {{< tdopen >}}
@@ -308,7 +311,7 @@ Poetry of Hafez: choose 3–4 poems ([ghazals or rubaiyat](http://www.hafizonlov
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 9. Aural Islam: Poetry and Soundscapes
 {{< tdclose >}}
 {{< tdopen >}}
@@ -351,7 +354,7 @@ Kittler, F. A. "[The City is a Medium](http://muse.jhu.edu/journals/new_literary
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 10. Pilgrimage, Travel, and Gender
 {{< tdclose >}}
 {{< tdopen >}}
@@ -414,7 +417,7 @@ Nielsen, R. A. ![This resource may not render correctly in a screen reader.](/im
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 12. Muslim Media I: Protest
 {{< tdclose >}}
 {{< tdopen >}}
@@ -449,7 +452,7 @@ Srebermy and Khiabany. "Gender, Sexuality and Blogging." In _Blogistan: The Inte
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 13. Muslim Media II: Islam in the Media
 {{< tdclose >}}
 {{< tdopen >}}
@@ -482,7 +485,7 @@ Plus one of the following (divided up in class):
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 14. Conclusion: Islam as Discourse Network?
 {{< tdclose >}}
 {{< tdopen >}}
