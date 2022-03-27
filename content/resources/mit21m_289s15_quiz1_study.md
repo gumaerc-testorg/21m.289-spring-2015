@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 6bcd23ee-3e20-e9fc-42a4-ef481a36c78d
 resourcetype: Document
 title: 'Quiz 1 study guide: Islam'
 uid: 3125aecb-24f6-a7b5-0c7a-1313a92f34e6

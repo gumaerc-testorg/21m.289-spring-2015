@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0e05002e-0e75-51e1-20c0-77bb16ec144a
 resourcetype: Document
 title: 'Project 2 sample: Expanding Beyond the Text'
 uid: 3bbe81cf-1fae-bc5e-0b03-c65d4797e3ed

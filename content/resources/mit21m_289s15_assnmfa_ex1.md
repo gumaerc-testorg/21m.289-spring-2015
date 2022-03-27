@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0e05002e-0e75-51e1-20c0-77bb16ec144a
 resourcetype: Document
 title: 'Sample Student Response #1 to MFA Visit'
 uid: 48331402-b07c-c909-ecef-f5d4faab2d70

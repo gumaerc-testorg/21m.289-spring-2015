@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0e05002e-0e75-51e1-20c0-77bb16ec144a
 resourcetype: Document
 title: 'Project 1 sample: Understanding the Temporal Contexts of Islam through the
   Qur''an and Hadiths'

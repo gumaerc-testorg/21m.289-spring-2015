@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0e05002e-0e75-51e1-20c0-77bb16ec144a
 resourcetype: Document
 title: 'Project 2 Assignment: Response to Islamic Art'
 uid: 64111dbe-3096-0212-8806-83da2a5c6085
