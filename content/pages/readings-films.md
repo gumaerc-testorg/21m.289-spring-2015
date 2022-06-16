@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of weekly course topics, assigned
+  readings, and film screenings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: 8c517bf1-43dc-842c-5ecb-64fcbada58f8
 Textbooks
 ---------
 
-Complete citations for the required and recommended texts are given on the [Syllabus]({{< baseurl >}}/pages/syllabus).
+Complete citations for the required and recommended texts are given on the {{% resource_link 300143a4-32b0-7ec5-92b4-855624b1e692 "Syllabus" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -410,7 +412,7 @@ Rose, S. "[The ISIS Propaganda War: A Hi-tech Media Jihad](http://www.theguardia
 
 Marshall, A. "[How ISIS Got its Anthem](http://www.theguardian.com/music/2014/nov/09/nasheed-how-isis-got-its-anthem)," _The Guardian_, November 9, 2014.
 
-Nielsen, R. A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Networks, Careers, and the Jihadi Radicalization of Muslim Clerics." (PDF)](http://www.mit.edu/~rnielsen/jihad.pdf) July 1, 2014.
+Nielsen, R. A. ["Networks, Careers, and the Jihadi Radicalization of Muslim Clerics." (PDF)](http://www.mit.edu/~rnielsen/jihad.pdf) July 1, 2014.
 
 
 {{< tdclose >}}
@@ -498,7 +500,7 @@ Asad, T. "[The Idea of an Anthropology of Islam](http://www.jstor.org/stable/206
 
 Kittler, F. A. "The Mother's Mouth." In _Discourse Network 1800 / 1900_. Stanford University Press, 1992. pp. 25–70. ISBN: 9780804720991. \[Preview with [Google Books](http://books.google.com/books?id=nRo0Pk8djjoC&pg=PA25=onepage)\]
 
-Zielinski, S., and E. Fürlus. "Introduction: Ex Oriente Lux." In ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Variantology_. _Vol. IV_. (PDF)](http://variantology.instant.de1.cc/wp-content/uploads/2013/10/Variantology-4_Table_of_Contents_Introduction.pdf). Walther König, Köln, 2011, pp. 7–18. ISBN: 9783865607324.
+Zielinski, S., and E. Fürlus. "Introduction: Ex Oriente Lux." In [_Variantology_. _Vol. IV_. (PDF)](http://variantology.instant.de1.cc/wp-content/uploads/2013/10/Variantology-4_Table_of_Contents_Introduction.pdf). Walther König, Köln, 2011, pp. 7–18. ISBN: 9783865607324.
 
 
 {{< tdclose >}}
