@@ -5,6 +5,7 @@ file: /courses/21m-289-islam-media-spring-2015/7a4548cbcc8a6f8c98969b71c86011f6_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MFA Visit Response Questions
 uid: 7a4548cb-cc8a-6f8c-9896-9b71c86011f6
 ---
 This file contains information regarding MFA visit response questions.
-

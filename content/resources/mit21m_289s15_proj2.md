@@ -5,6 +5,7 @@ file: /courses/21m-289-islam-media-spring-2015/64111dbe30960212880683da2a5c6085_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Project 2 Assignment: Response to Islamic Art'
 uid: 64111dbe-3096-0212-8806-83da2a5c6085
 ---
 This file contains the project 2 assignment, "Response to Islamic Art."
-

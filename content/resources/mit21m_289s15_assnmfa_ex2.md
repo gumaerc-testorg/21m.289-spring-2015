@@ -6,6 +6,7 @@ file: /courses/21m-289-islam-media-spring-2015/2d256cbec2474239cffffd54116a17b1_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Sample Student Response #2 to MFA Visit'
 uid: 2d256cbe-c247-4239-cfff-fd54116a17b1
 ---
 This file contains information regarding sample student response #2 to MFA visit.
-

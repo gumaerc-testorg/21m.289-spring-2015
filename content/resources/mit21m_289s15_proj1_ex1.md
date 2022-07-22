@@ -6,6 +6,7 @@ file: /courses/21m-289-islam-media-spring-2015/1c0e9d3ce2fd2cffcc4b8cfbd8d74224_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Project 1 sample: Review of Omar The Epic Series and Selective Compariso
 uid: 1c0e9d3c-e2fd-2cff-cc4b-8cfbd8d74224
 ---
 This file contains a sample student paper for Project 1: "Review of Omar the Epic series and selective comparison to The Messenger."
-
