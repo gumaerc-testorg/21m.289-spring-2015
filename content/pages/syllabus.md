@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on meeting times, prerequisites, project assignments, quizzes, grading, textbooks,
+  collaboration and academic integrity, and the schedule of course topics, events,
+  and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 300143a4-32b0-7ec5-92b4-855624b1e692
 ---
@@ -26,7 +32,7 @@ No previous knowledge of Islam or media studies is necessary. The course is int
 Project Assignments and Quizzes
 -------------------------------
 
-Students will hand in four main project assignments over the course of the semester. These are described in detail on the [Projects]({{< baseurl >}}/pages/projects) page.
+Students will hand in four main project assignments over the course of the semester. These are described in detail on the {{% resource_link 0e05002e-0e75-51e1-20c0-77bb16ec144a "Projects" %}} page.
 
 1.  Project 1: Response to the Qur'an and _hadith_
 2.  Project 2: Response to a piece of Islamic art

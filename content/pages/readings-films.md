@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of weekly course topics, assigned
+  readings, and film screenings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings & Films
 uid: 8c517bf1-43dc-842c-5ecb-64fcbada58f8
 ---
@@ -7,7 +12,7 @@ uid: 8c517bf1-43dc-842c-5ecb-64fcbada58f8
 Textbooks
 ---------
 
-Complete citations for the required and recommended texts are given on the [Syllabus]({{< baseurl >}}/pages/syllabus).
+Complete citations for the required and recommended texts are given on the {{% resource_link 300143a4-32b0-7ec5-92b4-855624b1e692 "Syllabus" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -54,7 +59,7 @@ Prior to first course meeting, please read the following (about pp. 20):
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 2. The Qur'an: Message and Medium, I
 {{< tdclose >}}
 {{< tdopen >}}
@@ -89,7 +94,7 @@ _Guest:_ Laura Marks
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 3. The Qur'an: Message and Medium, II
 {{< tdclose >}}
 {{< tdopen >}}
@@ -126,7 +131,7 @@ Harris, R. "['The Oil is Sizzling in the Pot': Sound and Emotion in Uyghur Qur'a
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 4. Message and Messenger
 {{< tdclose >}}
 {{< tdopen >}}
@@ -161,7 +166,7 @@ Introduction to media production, including basic film / sound recording; if tim
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 5. Memory Transmission: Sunnah and Hadith
 {{< tdclose >}}
 {{< tdopen >}}
@@ -202,7 +207,7 @@ In-class activity on al-Bukhari, Muslim, and al-Suyuti. Present project 1, final
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 6. Visual Islam: Writing
 {{< tdclose >}}
 {{< tdopen >}}
@@ -241,7 +246,7 @@ Battles, M. "The House of Wisdom." In _Library: An Unquiet History_. W. W. Norto
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 7. Visual Islam: Art and Architecture
 {{< tdclose >}}
 {{< tdopen >}}
@@ -308,7 +313,7 @@ Poetry of Hafez: choose 3–4 poems ([ghazals or rubaiyat](http://www.hafizonlov
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 9. Aural Islam: Poetry and Soundscapes
 {{< tdclose >}}
 {{< tdopen >}}
@@ -351,7 +356,7 @@ Kittler, F. A. "[The City is a Medium](http://muse.jhu.edu/journals/new_literary
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 10. Pilgrimage, Travel, and Gender
 {{< tdclose >}}
 {{< tdopen >}}
@@ -407,14 +412,14 @@ Rose, S. "[The ISIS Propaganda War: A Hi-tech Media Jihad](http://www.theguardia
 
 Marshall, A. "[How ISIS Got its Anthem](http://www.theguardian.com/music/2014/nov/09/nasheed-how-isis-got-its-anthem)," _The Guardian_, November 9, 2014.
 
-Nielsen, R. A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Networks, Careers, and the Jihadi Radicalization of Muslim Clerics." (PDF)](http://www.mit.edu/~rnielsen/jihad.pdf) July 1, 2014.
+Nielsen, R. A. ["Networks, Careers, and the Jihadi Radicalization of Muslim Clerics." (PDF)](http://www.mit.edu/~rnielsen/jihad.pdf) July 1, 2014.
 
 
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 12. Muslim Media I: Protest
 {{< tdclose >}}
 {{< tdopen >}}
@@ -449,7 +454,7 @@ Srebermy and Khiabany. "Gender, Sexuality and Blogging." In _Blogistan: The Inte
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 13. Muslim Media II: Islam in the Media
 {{< tdclose >}}
 {{< tdopen >}}
@@ -482,7 +487,7 @@ Plus one of the following (divided up in class):
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 14. Conclusion: Islam as Discourse Network?
 {{< tdclose >}}
 {{< tdopen >}}
@@ -495,7 +500,7 @@ Asad, T. "[The Idea of an Anthropology of Islam](http://www.jstor.org/stable/206
 
 Kittler, F. A. "The Mother's Mouth." In _Discourse Network 1800 / 1900_. Stanford University Press, 1992. pp. 25–70. ISBN: 9780804720991. \[Preview with [Google Books](http://books.google.com/books?id=nRo0Pk8djjoC&pg=PA25=onepage)\]
 
-Zielinski, S., and E. Fürlus. "Introduction: Ex Oriente Lux." In ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Variantology_. _Vol. IV_. (PDF)](http://variantology.instant.de1.cc/wp-content/uploads/2013/10/Variantology-4_Table_of_Contents_Introduction.pdf). Walther König, Köln, 2011, pp. 7–18. ISBN: 9783865607324.
+Zielinski, S., and E. Fürlus. "Introduction: Ex Oriente Lux." In [_Variantology_. _Vol. IV_. (PDF)](http://variantology.instant.de1.cc/wp-content/uploads/2013/10/Variantology-4_Table_of_Contents_Introduction.pdf). Walther König, Köln, 2011, pp. 7–18. ISBN: 9783865607324.
 
 
 {{< tdclose >}}
