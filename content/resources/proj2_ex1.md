@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/21m-289-islam-media-spring-2015/a8dc875f44070622532d89d47007692e_proj2_ex1.png
+file_size: 1368
 file_type: image/png
 image_metadata:
   caption: ''
