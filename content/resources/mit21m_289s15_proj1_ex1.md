@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains a sample student paper for Project 1: "Review of
   Omar the Epic series and selective comparison to The Messenger."'
-file: /ol-ocw-studio-app/courses/21m-289-islam-media-spring-2015/1c0e9d3ce2fd2cffcc4b8cfbd8d74224_MIT21M_289S15_proj1_ex1.pdf
+file: /courses/21m-289-islam-media-spring-2015/1c0e9d3ce2fd2cffcc4b8cfbd8d74224_MIT21M_289S15_proj1_ex1.pdf
 file_size: 443258
 file_type: application/pdf
 learning_resource_types:

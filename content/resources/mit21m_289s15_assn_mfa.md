@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding MFA visit response questions.
-file: /ol-ocw-studio-app/courses/21m-289-islam-media-spring-2015/7a4548cbcc8a6f8c98969b71c86011f6_MIT21M_289S15_assn_MFA.pdf
+file: /courses/21m-289-islam-media-spring-2015/7a4548cbcc8a6f8c98969b71c86011f6_MIT21M_289S15_assn_MFA.pdf
 file_size: 175310
 file_type: application/pdf
 learning_resource_types:
