@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding sample student response #2
   to MFA visit.'
-file: /ol-ocw-studio-app/courses/21m-289-islam-media-spring-2015/2d256cbec2474239cffffd54116a17b1_MIT21M_289S15_assnMFA_ex2.pdf
+file: /courses/21m-289-islam-media-spring-2015/2d256cbec2474239cffffd54116a17b1_MIT21M_289S15_assnMFA_ex2.pdf
 file_size: 228294
 file_type: application/pdf
 learning_resource_types:
