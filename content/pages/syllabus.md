@@ -376,22 +376,22 @@ You are encouraged to discuss course materials with classmates. Collaboration is
 ### Required Texts
 
 \[Qur'an\] = Haleem, M. A. S. _The Qur'an_. Translated by M. A. S. Abdel Haleem. Oxford University Press, 2010. ISBN: 9780199570713.  
-\[**Note**: The 2005 edition can be viewed and download from [Internet Archive](https://archive.org/details/QuranTransAbdelHaleem). Other translations are also acceptable, such as [quran.com](http://quran.com/); but if you use one of these, you must indicate the number of individual verses in sura.\]
+\[**Note**: The 2005 edition can be viewed and download from {{% resource_link "c7c3e8f4-a889-4a7e-a83f-be5edad33229" "Internet Archive" %}}. Other translations are also acceptable, such as {{% resource_link "7777bd95-36ac-43a0-ae71-59015fc561d7" "quran.com" %}}; but if you use one of these, you must indicate the number of individual verses in sura.\]
 
-\[Hirschkind\] = Hirschkind, Charles. _The Ethical Soundscape: Cassette Sermons and Islamic Counterpublics_. Columbia University Press, 2006. \[Preview with [Google Books](http://books.google.com/books?id=jScPp67Ghn8C&pg=PAfrontcover)\]
+\[Hirschkind\] = Hirschkind, Charles. _The Ethical Soundscape: Cassette Sermons and Islamic Counterpublics_. Columbia University Press, 2006. \[Preview with {{% resource_link "ae5866c5-248f-48f9-9d2b-cc4d78abf19a" "Google Books" %}}\]
 
-\[Marks\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262014212) Marks, Laura. _Enfoldment and Infinity: An Islamic Genealogy of New Media Art_. MIT Press, 2010. ISBN: 9780262014212.
+\[Marks\] = {{% resource_link "45aa8af9-232b-4c00-9d8e-d3b165885299" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Marks, Laura. _Enfoldment and Infinity: An Islamic Genealogy of New Media Art_. MIT Press, 2010. ISBN: 9780262014212.
 
 \[Messick\] = Messick, Brinkley. _The Calligraphic State: Textual Domination and History in a Muslim Society_. University of California Press, 1996. ISBN: 9780520205154.
 
 ### Recommended Texts
 
-Said, Edward. _Covering Islam: How the Media and the Experts Determine How We See the Rest of the World_. 2nd ed. Vintage Books, 1996. ISBN: 9780099595014. \[Preview with [Google Books](http://books.google.com/books?id=0wUz3d5c2A8C&pg=PAfrontcover)\]
+Said, Edward. _Covering Islam: How the Media and the Experts Determine How We See the Rest of the World_. 2nd ed. Vintage Books, 1996. ISBN: 9780099595014. \[Preview with {{% resource_link "814082d6-ac14-46eb-bf89-10e3ac19eba9" "Google Books" %}}\]
 
 Rumi. _The Masnavi, Book One_. Translated by Jawid Mojaddedi. Oxford University Press, 2008. ISBN: 9780199552313.  
-(A different translation by E. H. Whinfield (1898) is [available online](http://www.sacred-texts.com/isl/masnavi/msn01.htm), and is a usable alternative.)
+(A different translation by E. H. Whinfield (1898) is {{% resource_link "501efea4-e7d2-44d4-a565-0ae2eeae2379" "available online" %}}, and is a usable alternative.)
 
 Either one of the following hadith collections:
 
-*   Arabi, Ibn. _Divine Sayings: 101 Hadith Qudsi - The Mishkat Al-Anwar of Ibn 'Arabi_. Translated by Stephen Hirtenstein and Martin Nocutt. Anqa Publishing, 2008. ISBN: 9781905937035. \[Preview with [Google Books](http://books.google.com/books?id=7R2gSpSbuGYC&pg=PAfrontcover)\]
+*   Arabi, Ibn. _Divine Sayings: 101 Hadith Qudsi - The Mishkat Al-Anwar of Ibn 'Arabi_. Translated by Stephen Hirtenstein and Martin Nocutt. Anqa Publishing, 2008. ISBN: 9781905937035. \[Preview with {{% resource_link "d187c80b-91f1-4107-bfab-00e6eeed21fc" "Google Books" %}}\]
 *   An-Nawawi. _The Complete Forty Hadith_. 3rd ed. Translated by Abdassamad Clarke. Ta-Ha Publishers Limited, 2009. ISBN: 9781842001158.

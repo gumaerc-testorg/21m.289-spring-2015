@@ -42,7 +42,7 @@ Sample student work:
 
 ### MFA Visit and Response Questions
 
-The week before Project 2 is due, students visited the Boston [Museum of Fine Arts](http://www.mfa.org/), and submitted responses to these questions: {{% resource_link 7a4548cb-cc8a-6f8c-9896-9b71c86011f6 "MFA Response Questions (PDF)" %}}
+The week before Project 2 is due, students visited the Boston {{% resource_link "c1010af2-74df-4c3c-8532-6aed3d1d5452" "Museum of Fine Arts" %}}, and submitted responses to these questions: {{% resource_link 7a4548cb-cc8a-6f8c-9896-9b71c86011f6 "MFA Response Questions (PDF)" %}}
 
 Sample student work:
 
