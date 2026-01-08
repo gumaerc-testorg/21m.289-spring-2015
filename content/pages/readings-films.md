@@ -29,9 +29,9 @@ Prior to first course meeting, please read the following (about pp. 20):
 
 \[Qur'an\] Suras pp. 1, 96, 68, and 73–74.
 
-{{% resource_link "11a70f26-23ec-4603-b303-c02cb408302a" "*Sahih al-Bukhari*" %}} hadith collection, 1.1–5.
+[*Sahih al-Bukhari*](http://sunnah.com/bukhari) hadith collection, 1.1–5.
 
-{{% resource_link "81cb23a8-defd-433e-b8c1-900016446cf5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Zielinski, S. "Introduction: The Idea of a Deep Time of Media." Chapter 1 in *Deep Time of the Media: Toward an Archaeology of Hearing and Seeing by Technical Means*. MIT Press, 2008. ISBN: 9780262740326.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262740326) Zielinski, S. "Introduction: The Idea of a Deep Time of Media." Chapter 1 in *Deep Time of the Media: Toward an Archaeology of Hearing and Seeing by Technical Means*. MIT Press, 2008. ISBN: 9780262740326.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part I: First Media**
@@ -63,9 +63,9 @@ Week 3. The Qur'an: Message and Medium, II
 
 \[Qur'an\] Suras pp. 6–16, (ajza' pp. 7–14).
 
-Rasmussen, A. K. "{{% resource_link "3520fa17-2db5-4534-82fc-1a7f90fcbead" "The Qur'an in Indonesian Daily Life: The Public Project of Musical Oratory" %}}." *Ethnomusicology* 45, no. 1 (2001): 30–57.
+Rasmussen, A. K. "[The Qur'an in Indonesian Daily Life: The Public Project of Musical Oratory](http://www.jstor.org/stable/852633)." *Ethnomusicology* 45, no. 1 (2001): 30–57.
 
-Harris, R. "{{% resource_link "e6b91cf9-f27f-4c1a-8b47-a2ac5c5c5131" "'The Oil is Sizzling in the Pot': Sound and Emotion in Uyghur Qur'anic Recitation" %}}." *Ethnomusicology Forum* 23, no. 3 (2014): 331–59.
+Harris, R. "['The Oil is Sizzling in the Pot': Sound and Emotion in Uyghur Qur'anic Recitation](http://dx.doi.org/10.1080/17411912.2014.956774)." *Ethnomusicology Forum* 23, no. 3 (2014): 331–59.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -73,9 +73,9 @@ Harris, R. "{{% resource_link "e6b91cf9-f27f-4c1a-8b47-a2ac5c5c5131" "'The Oil i
 
 ### Film
 
-{{% resource_link "dab66d5c-9f86-4bc2-b621-e1745407a362" "*The Light in Her Eyes*" %}}. Directed by Julia Meltzer and Laura Nix. Color, 87 min. 2011.
+[*The Light in Her Eyes*](http://www.imdb.com/title/tt2124188/). Directed by Julia Meltzer and Laura Nix. Color, 87 min. 2011.
 
-{{% resource_link "af02e509-47c4-4bfb-bce2-2bc40eec501f" "*Koran by Heart*" %}}. Directed by Greg Barker. Color, 90 min. 2011.
+[*Koran by Heart*](http://www.imdb.com/title/tt1766189/). Directed by Greg Barker. Color, 90 min. 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 Week 4. Message and Messenger
@@ -105,7 +105,7 @@ Week 5. Memory Transmission: Sunnah and Hadith
 
 \[Qur'an\] Suras pp. 37–114 (ajza' pp. 23–30).
 
-Half of class reads: Arabi, Ibn. *Divine Sayings: 101 Hadith Qudsi - The Mishkat Al-Anwar of Ibn 'Arabi*. Translated by Stephen Hirtenstein and Martin Nocutt. Anqa Publishing, 2008. ISBN: 9781905937035. \[Preview with {{% resource_link "d187c80b-91f1-4107-bfab-00e6eeed21fc" "Google Books" %}}\]
+Half of class reads: Arabi, Ibn. *Divine Sayings: 101 Hadith Qudsi - The Mishkat Al-Anwar of Ibn 'Arabi*. Translated by Stephen Hirtenstein and Martin Nocutt. Anqa Publishing, 2008. ISBN: 9781905937035. \[Preview with [Google Books](http://books.google.com/books?id=7R2gSpSbuGYC&pg=PAfrontcover)\]
 
 Half of class reads: An-Nawawi. *The Complete Forty Hadith*. 3rd ed. Edited by Abdassamad Clarke. Ta-Ha Publishers Limited, 2009. ISBN: 9781842001158.
 
@@ -127,7 +127,7 @@ Week 6. Visual Islam: Writing
 
 \[Messick\] Skim "Introduction." Chapters 1–2 and 4, pp. 15–53 and 75–99.
 
-Nasr, Seyyed Hossein. "The Spiritual Message of Islamic Calligraphy." Chapter 2 in *Islamic Art and Spirituality*. State University of New York Press, 1987, pp. 17–36. ISBN: 9780887061752. \[Preview in {{% resource_link "d4ac2fc2-d3ac-4b68-b246-608a929bfab3" "Google Books" %}}\]
+Nasr, Seyyed Hossein. "The Spiritual Message of Islamic Calligraphy." Chapter 2 in *Islamic Art and Spirituality*. State University of New York Press, 1987, pp. 17–36. ISBN: 9780887061752. \[Preview in [Google Books](https://books.google.com/books?id=H5PZli-7V9EC&lpg=PP1&pg=PA17#v=onepage&q&f=false)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -135,7 +135,7 @@ Nasr, Seyyed Hossein. "The Spiritual Message of Islamic Calligraphy." Chapter 2 
 
 ### Film
 
-{{% resource_link "dd2d4660-4b5a-4a54-bad2-5ab4538abdc3" "*The Clay Bird*" %}}. Directed by Tareque Masud. Color, 89 min. 2002.
+[*The Clay Bird*](http://www.imdb.com/title/tt0319836/). Directed by Tareque Masud. Color, 89 min. 2002.
 
 \[Messick\] Chapters 7–9 and 11, pp. 135–87 and 203–31.
 
@@ -149,25 +149,25 @@ Week 7. Visual Islam: Art and Architecture
 12
 {{< tdclose >}}{{< tdopen >}}
 
-*Guest:* {{% resource_link "b9d5d388-1686-4b04-9055-c7c1ec77b61c" "Azra Akšamija" %}}
+*Guest:* [Azra Akšamija](http://www.azraaksamija.net/)
 
 \[Marks\] pp. 153–318.
 
-Akšamija, Azra. "{{% resource_link "72b03099-2438-405f-aeb2-7fbb85cb9e5d" "Nomadic Mosque: Wearable Prayer Space for Contemporary Islamic Practice in the West" %}}." *Thresholds* 32 (2005): 17–21.
+Akšamija, Azra. "[Nomadic Mosque: Wearable Prayer Space for Contemporary Islamic Practice in the West](http://act.mit.edu/projects-and-events/publications/nomadic-mosque-wearable-prayer-space-for-contemporary-islamic-practice-in-the-west/)." *Thresholds* 32 (2005): 17–21.
 
-———. "{{% resource_link "e9b43576-956a-428f-a5ce-9de6125dcfe1" "Cultivating Convergences: The First Islamic Cemetery in Vorarlberg, Austria" %}}." *International Journal of Islamic Architecture* 3, no. 1 (2014): 131–46.
+———. "[Cultivating Convergences: The First Islamic Cemetery in Vorarlberg, Austria](http://dx.doi.org/10.1386/ijia.3.1.131_1)." *International Journal of Islamic Architecture* 3, no. 1 (2014): 131–46.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
 
-Trip to {{% resource_link "c0b2a6d4-701d-4231-a4bd-9200aadb7b8f" "Islamic Society of Boston Cultural Center" %}}
+Trip to [Islamic Society of Boston Cultural Center](http://isbcc.org/)
 
-Nasr, Seyyed Hossein. "The Principle of Unity and the Sacred Architecture of Islam." Chapter 3 in *Islamic Art and Spirituality*. State University of New York Press, 1987, pp. 37–63. ISBN: 9780887061752. \[Preview in {{% resource_link "aec49c23-f846-46a9-862a-ffa07f39f847" "Google Books" %}}\]
+Nasr, Seyyed Hossein. "The Principle of Unity and the Sacred Architecture of Islam." Chapter 3 in *Islamic Art and Spirituality*. State University of New York Press, 1987, pp. 37–63. ISBN: 9780887061752. \[Preview in [Google Books](https://books.google.com/books?id=H5PZli-7V9EC&lpg=PA37&pg=PA37#v=onepage&q&f=false)\]
 
 ### Video
 
-Aga Kahn Architecture Award. "{{% resource_link "92639550-f027-482c-b3bd-ed771a0ca8dc" "2013 Aga Khan Award for Architecture Winner - Altach Islamic Cemetery, Altach, Austria" %}}." YouTube. Oct. 7, 2013.
+Aga Kahn Architecture Award. "[2013 Aga Khan Award for Architecture Winner - Altach Islamic Cemetery, Altach, Austria](https://www.youtube.com/watch?v=5ggnOb3iU9M)." YouTube. Oct. 7, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 8. Visual Islam: Museums, Archives
@@ -175,17 +175,17 @@ Week 8. Visual Islam: Museums, Archives
 No class meeting
 {{< tdclose >}}{{< tdopen >}}
 
-Self-guided trip to the Boston {{% resource_link "c1010af2-74df-4c3c-8532-6aed3d1d5452" "Museum of Fine Arts" %}}.
+Self-guided trip to the Boston [Museum of Fine Arts](http://www.mfa.org/).
 
 \[Rumi\] Everyone read "Prose Introduction" and "Exordium: The Song of the Reed." The rest is to be divided up among class, choose 2–3 more sections / stories that look interesting, and present briefly on what you read.
 
-Poetry of Hafez: choose 3–4 poems ({{% resource_link "6b4f4eec-2f70-4f00-8e67-dd8b1bf3bed4" "ghazals or rubaiyat" %}}) and read carefully.
+Poetry of Hafez: choose 3–4 poems ([ghazals or rubaiyat](http://www.hafizonlove.com/divan/)) and read carefully.
 
 ### Films
 
-{{% resource_link "3323030a-2991-469e-b6e1-1e171d06dcda" "*Sufi Qawwali: A Call to the West*" %}}. Documentary by Najib Aminy. 13 min. 2014.
+[*Sufi Qawwali: A Call to the West*](https://www.youtube.com/watch?v=54TiJTrB7LQ). Documentary by Najib Aminy. 13 min. 2014.
 
-{{% resource_link "d9545fb2-cce7-49fc-b017-6f81e21c93d3" "*Give Me Your Love: A Journey into Mevlevi Music*" %}}. Documentary by Namerra Ahmed. 30 min. 2007.
+[*Give Me Your Love: A Journey into Mevlevi Music*](http://www.cultureunplugged.com/documentary/watch-online/filmedia/play/2480/Give-Me-Your-Love). Documentary by Namerra Ahmed. 30 min. 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 Week 9. Aural Islam: Poetry and Soundscapes
@@ -195,11 +195,11 @@ Week 9. Aural Islam: Poetry and Soundscapes
 
 ### Film
 
-{{% resource_link "c32eb6b2-8077-4cac-a7d1-c37117af76af" "*New Muslim Cool*" %}}. Documentary by Jennifer Maytorena Taylor. Color, 83 min. 2009.
+[*New Muslim Cool*](http://www.imdb.com/title/tt1399584/). Documentary by Jennifer Maytorena Taylor. Color, 83 min. 2009.
 
-Mohaiemen, Naeem. "{{% resource_link "1a75dcf7-e98b-465a-94dd-ad0f0e59128c" "Fear of a Muslim Planet: The Islamic Roots of Hip-Hop" %}}." 2008.
+Mohaiemen, Naeem. "[Fear of a Muslim Planet: The Islamic Roots of Hip-Hop](http://archive.thedailystar.net/forum/2008/june/fear.htm)." 2008.
 
-Sanghani, R. "{{% resource_link "34e06499-693d-4b88-8b14-fea1dadfb563" "Hip Hop Hijabis: Meet the Muslim Women Who Rap in Headscarves" %}}," *The Telegraph*. March 11, 2015.
+Sanghani, R. "[Hip Hop Hijabis: Meet the Muslim Women Who Rap in Headscarves](https://www.dailymail.co.uk/femail/article-3002203/Hip-hop-hijabis-Meet-Muslim-women-rap-headscarves-poster-girls-religion.html)," *The Telegraph*. March 11, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -207,7 +207,7 @@ Sanghani, R. "{{% resource_link "34e06499-693d-4b88-8b14-fea1dadfb563" "Hip Hop 
 
 \[Hirschkind\] Chapters 1 and 3–4, pp. 1–31 and 67–142; Skim Chapter 2.
 
-Kittler, F. A. "{{% resource_link "87113473-2885-4590-8635-866de750c7cd" "The City is a Medium" %}}." *New Literary History* 27, no. 4 (1996): 717–29.
+Kittler, F. A. "[The City is a Medium](http://muse.jhu.edu/journals/new_literary_history/summary/v027/27.4kittler.html)." *New Literary History* 27, no. 4 (1996): 717–29.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part III: Networked Islams**
@@ -219,19 +219,19 @@ Week 10. Pilgrimage, Travel, and Gender
 
 Peters, F. Chapters 2, 3, and 6 in *The Hajj: The Muslim Pilgrimage to Mecca and the Holy Places*. Princeton University Press, 1995, pp. 60–143 and 266–316. ISBN: 9780691026190.
 
-Sharif, Al Khalifa. "Sacred Narratives Linking Iraqi Shiite Women across Time and Space." In *Muslim Networks from Hajj to Hip-Hop*. The University of Carolina Press, 2005, pp. 132–54. ISBN: 9780807855881. \[Preview with {{% resource_link "7ec99889-4fe4-4e08-a4b6-422530724dae" "Google Books" %}}\]
+Sharif, Al Khalifa. "Sacred Narratives Linking Iraqi Shiite Women across Time and Space." In *Muslim Networks from Hajj to Hip-Hop*. The University of Carolina Press, 2005, pp. 132–54. ISBN: 9780807855881. \[Preview with [Google Books](http://books.google.com/books?id=E0ef5IFUOEQC&pg=PA132=onepage)\]
 
-Amin, Betty Hasan. "{{% resource_link "183b8056-d3dc-408d-b437-47085d51edf0" "Hajj in a Wheelchair" %}}." *Azizah Magazine* 1, no. 1 (2001): 39–43.
+Amin, Betty Hasan. "[Hajj in a Wheelchair](http://www.beliefnet.com/Faiths/Islam/2001/03/Hajj-In-A-Wheelchair.aspx)." *Azizah Magazine* 1, no. 1 (2001): 39–43.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
 
-### YaShaheed. "{{% resource_link "b2f099b4-096a-4315-a424-f2d92edced35" "Walk to Karbala, Ziyara of Imam Hussain, Arbaeen" %}}." YouTube, Dec. 28, 2011.
+### YaShaheed. "[Walk to Karbala, Ziyara of Imam Hussain, Arbaeen](https://www.youtube.com/watch?v=capMObCpFPc)." YouTube, Dec. 28, 2011.
 
 View other short films about the hajj
 
-Explore "virtual" hajj, such as {{% resource_link "c0ea6fda-a517-4aaa-8085-ff5009da03d6" "IslamOnline.net / Second Life" %}} and the {{% resource_link "f672e9c4-1cdf-4481-868c-1180a02eec85" "Mecca 3D app" %}}
+Explore "virtual" hajj, such as [IslamOnline.net / Second Life](https://www.youtube.com/watch?v=eNNqd2AxxyM) and the [Mecca 3D app](http://mecca3d.net/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 11. Jihadist Circulations
@@ -243,13 +243,13 @@ Week 11. Jihadist Circulations
 
 Miller, F. "Bin Laden's Genie and His Bottle: On Authority and Revelation through Audiotapes." Chapter 4 in *The Audacious Ascetic*: *What the Bin Laden Tapes Reveal about Al-Qa'ida*. Oxford University Press, 2015. ISBN: 9780190264369.
 
-Blair, D., et al. "{{% resource_link "385f28d2-175b-47a8-9262-5400e2a1ee0c" "Osama Bin Laden Files: A Preoccupation with the Media, and a Bewildering Bureaucracy" %}}," *The Telegraph*, May 3, 2012.
+Blair, D., et al. "[Osama Bin Laden Files: A Preoccupation with the Media, and a Bewildering Bureaucracy](http://www.telegraph.co.uk/news/worldnews/al-qaeda/9244595/Osama-bin-Laden-files-a-preoccupation-with-the-media-and-a-bewildering-bureaucracy.html)," *The Telegraph*, May 3, 2012.
 
-Rose, S. "{{% resource_link "58bf8fe2-0f36-4076-a363-f9a4d0f992e4" "The ISIS Propaganda War: A Hi-tech Media Jihad" %}}," *The Guardian*, October 7, 2014.
+Rose, S. "[The ISIS Propaganda War: A Hi-tech Media Jihad](http://www.theguardian.com/world/2014/oct/07/isis-media-machine-propaganda-war)," *The Guardian*, October 7, 2014.
 
-Marshall, A. "{{% resource_link "d7aa7702-c641-4bea-aa95-f10840db8e63" "How ISIS Got its Anthem" %}}," *The Guardian*, November 9, 2014.
+Marshall, A. "[How ISIS Got its Anthem](http://www.theguardian.com/music/2014/nov/09/nasheed-how-isis-got-its-anthem)," *The Guardian*, November 9, 2014.
 
-Nielsen, R. A. {{% resource_link "9602e3ee-8fe5-4a94-84ea-7386658d7465" "\"Networks, Careers, and the Jihadi Radicalization of Muslim Clerics.\" (PDF)" %}} July 1, 2014.
+Nielsen, R. A. ["Networks, Careers, and the Jihadi Radicalization of Muslim Clerics." (PDF)](http://www.mit.edu/~rnielsen/jihad.pdf) July 1, 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 Week 12. Muslim Media I: Protest
@@ -257,11 +257,11 @@ Week 12. Muslim Media I: Protest
 19
 {{< tdclose >}}{{< tdopen >}}
 
-Kurzman. "The Network Metaphor and the Mosque Network in Iran, 1978–1979." In *Muslim Networks from Hajj to Hip-Hop*. The University of Carolina Press, 2005, pp. 69–83. ISBN: 9780807855881. \[Preview with {{% resource_link "3026a1d7-39d2-401d-a458-2fe137716bc2" "Google Books" %}}\]
+Kurzman. "The Network Metaphor and the Mosque Network in Iran, 1978–1979." In *Muslim Networks from Hajj to Hip-Hop*. The University of Carolina Press, 2005, pp. 69–83. ISBN: 9780807855881. \[Preview with [Google Books](http://books.google.com/books?id=E0ef5IFUOEQC&pg=PA69#v=onepage)\]
 
-Sardar, Z. "{{% resource_link "c81bfd27-19a2-46ca-815d-208d9091bcce" "Paper, Printing and Compact Discs: The Making and Unmaking of Islamic Culture" %}}." *Media, Culture and Society* 15, no. 1 (1993): 43–59.
+Sardar, Z. "[Paper, Printing and Compact Discs: The Making and Unmaking of Islamic Culture](http://dx.doi.org/10.1177/016344393015001004)." *Media, Culture and Society* 15, no. 1 (1993): 43–59.
 
-Srebermy and Khiabany. "Gender, Sexuality and Blogging." In *Blogistan: The Internet and Politics in Iran*. I. B. Tauris, 2010, pp. 87–132. ISBN: 9781845116071. \[Preview with {{% resource_link "11be3ded-0e07-44a4-9d42-d45548eb8415" "Google Books" %}}\]
+Srebermy and Khiabany. "Gender, Sexuality and Blogging." In *Blogistan: The Internet and Politics in Iran*. I. B. Tauris, 2010, pp. 87–132. ISBN: 9781845116071. \[Preview with [Google Books](http://books.google.com/books?id=KrGe20F4nQcC&pg=PA93#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -269,7 +269,7 @@ Srebermy and Khiabany. "Gender, Sexuality and Blogging." In *Blogistan: The Inte
 
 ### Film
 
-{{% resource_link "410c4456-b880-459f-b537-80cf85bd0b9a" "*Persepolis*" %}}. Directed by Marjane Satrapi. Color, 96 min. 2007.
+[*Persepolis*](http://www.imdb.com/title/tt0808417/). Directed by Marjane Satrapi. Color, 96 min. 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 Week 13. Muslim Media II: Islam in the Media
@@ -285,11 +285,11 @@ Said, Edward W. "Islam as News" and "Knowledge and Power." Chapters 1 and 3 in *
 
 Plus one of the following (divided up in class):
 
-- {{% resource_link "21df00f4-4427-48c0-a64f-fd072228844e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} McLuhan, Marshall. "The Medium is the Message." In *Understanding Media: The Extensions of Man*. MIT Press, 1994, pp. 1–21. ISBN: 9780262631594.
+- [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631594) McLuhan, Marshall. "The Medium is the Message." In *Understanding Media: The Extensions of Man*. MIT Press, 1994, pp. 1–21. ISBN: 9780262631594.
 - Williams, Raymond. "From Medium to Social Practice." In *Marxism and Literature*. Oxford University Press, 1977, pp. 158–64. ISBN: 9780198760566. (also read pp. 145–57 as background)
-- Mitchell, W. J. T. "{{% resource_link "6ecb2849-6df8-4cff-859e-11b5ea3cb54a" "Addressing Media" %}}." *MediaTropes* 1 (2008): 1–18.
+- Mitchell, W. J. T. "[Addressing Media](http://www.mediatropes.com/index.php/Mediatropes/article/view/1771/1482)." *MediaTropes* 1 (2008): 1–18.
 - Luhmann, Niklas. *The Reality of the Mass Media*. Stanford University Press, 2000, pp. 1–9 and 95–102. ISBN: 9780804740777.
-- Siegert, Bernhard. "{{% resource_link "7599d1d0-7531-4f6a-aa14-b3b603295e4a" "Cultural Techniques: Or the End of the Intellectual Postwar Era in German Media Theory" %}}." *Theory, Culture and Society* 30, no. 6 (2013): 48–65.
+- Siegert, Bernhard. "[Cultural Techniques: Or the End of the Intellectual Postwar Era in German Media Theory](http://dx.doi.org/10.1177/0263276413488963)." *Theory, Culture and Society* 30, no. 6 (2013): 48–65.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 Week 14. Conclusion: Islam as Discourse Network?
@@ -297,9 +297,9 @@ Week 14. Conclusion: Islam as Discourse Network?
 23
 {{< tdclose >}}{{< tdopen >}}
 
-Asad, T. "{{% resource_link "45fe88ea-151b-46ec-bf1c-c62c8ded0d0e" "The Idea of an Anthropology of Islam" %}}." *Qui Parle* 17, no. 2 (2009): 1–30.
+Asad, T. "[The Idea of an Anthropology of Islam](http://www.jstor.org/stable/20685738)." *Qui Parle* 17, no. 2 (2009): 1–30.
 
-Kittler, F. A. "The Mother's Mouth." In *Discourse Network 1800 / 1900*. Stanford University Press, 1992. pp. 25–70. ISBN: 9780804720991. \[Preview with {{% resource_link "e5a2cce3-c141-4cb0-89ea-b0b8147af2db" "Google Books" %}}\]
+Kittler, F. A. "The Mother's Mouth." In *Discourse Network 1800 / 1900*. Stanford University Press, 1992. pp. 25–70. ISBN: 9780804720991. \[Preview with [Google Books](http://books.google.com/books?id=nRo0Pk8djjoC&pg=PA25=onepage)\]
 
 Zielinski, S., and E. Fürlus. "Introduction: Ex Oriente Lux." In *Variantology*. *Vol. IV*. Walther König, Köln, 2011, pp. 7–18. ISBN: 9783865607324.
 

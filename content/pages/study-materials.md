@@ -20,6 +20,6 @@ A study guide for Quiz 2 (on sound/media studies) is not available.
 Other Resources
 ---------------
 
-{{% resource_link "21102639-2158-4699-8eb8-fe8ae9162e6e" "MIT Libraries' Guide to the Aga Khan Visual Archive" %}}
+[MIT Libraries' Guide to the Aga Khan Visual Archive](https://ismailimail.wordpress.com/2014/07/16/mit-libraries-aga-khan-visual-archive/)
 
-{{% resource_link "d8168dc9-b5e9-46e9-8361-d75e75f85719" "ArchNet" %}}: An open web resource focused on architecture, urbanism, environmental and landscape design, visual culture, and media of the Muslim world.
+[ArchNet](http://archnet.org/): An open web resource focused on architecture, urbanism, environmental and landscape design, visual culture, and media of the Muslim world.
